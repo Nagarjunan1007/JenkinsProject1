@@ -1,4 +1,4 @@
-public class JenkinsProject1 {
+public class JenkinsProject{
 
  public static void main(String[] args) {
   // TODO Auto-generated method stub
@@ -9,7 +9,7 @@ public class JenkinsProject1 {
         System.out.println("Hello TestAutomation12");
 	 System.out.println("Hello TestAutomation1212334");
 	  System.out.println("Arjun Test1234456");
-	 	  System.out.println("Gowtham Test12342323");
+	 	  System.out.println("Gowtham Test123423233435");
  }
 
 }
